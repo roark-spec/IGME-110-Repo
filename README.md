@@ -12,9 +12,12 @@ I usually practice my instrument, do schoolwork, go to my job, or play games eve
 
 ## Links
 https://www.rit.edu/
+
 [RIT](https://www.rit.edu/)
 
 ## Images and Fonts
 <img width="200" height="300" alt="120-200x300" src="https://github.com/user-attachments/assets/db8e7281-0e38-4b9a-be2f-67b075c4ff8e" />
+
 **Bold**
+
 *Italics*
